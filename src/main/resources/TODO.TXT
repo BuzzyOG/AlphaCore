@@ -1,1 +1,2 @@
 Saving and loading.
+Make Ability and Effect system expandable and not restricted to Premade ones.
